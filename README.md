@@ -8,15 +8,7 @@ A simple URL shortening service built in Go.
 
 This project provides a basic URL-shortening service implemented in Go. It allows users to shorten long URLs into more manageable and shareable links. The service also includes a redirect feature to redirect users from the shortened URL to the original long URL.
 
-## Installation
 
-To use the URL shortener, you need to have Go installed on your system. You can download and install Go from the [official Go website](https://go.dev/).
-
-Clone the repository to your local machine:
-
-```sh
-git clone https://github.com/Prince-1501/url-shortner.git
-```
 
 ## Usage
 
@@ -60,6 +52,3 @@ This will redirect you to the original URL associated with the shortened URL.
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
